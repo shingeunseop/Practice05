@@ -10,7 +10,7 @@ public abstract class Shape {
 	}
 	
 	abstract public double getArea();
-	abstract public double gePerimeter();
+	abstract public double getPerimeter();
 	
 
 	public int getCointSides() {
