@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class GoodsApp {
 
     public static void main(String[] args) {
+    	
     	int count=0;
     	System.out.println("상품 3개를 입력해주세요");
     	ArrayList<Goods> list= new ArrayList<Goods>();
